@@ -5,7 +5,7 @@
 ---
 
 ## 🔗 Project Links
-- **Live Website:** [Click Here to View Live]()
+- **Live Website:** [Click Here to View Live](https://cs-ticket-system-created-by-mahedi.netlify.app/)
 - **GitHub Repository:** [View Source Code](https://github.com/amimahedihasan/cs-ticket-system.git)
 
 ---
@@ -41,7 +41,7 @@
 
 ## 👤 Author
 **Md. Mahdei Hasan**
-* GitHub: [amimahedihasan](https://github.com/amimahedihasan)
+* GitHub: [Md. Mahedi Hasan](https://github.com/amimahedihasan)
 * Role: Frontend Developer
 
 ---
